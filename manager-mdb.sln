@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "manager-mdb", "manager-mdb\manager-mdb.vbproj", "{24709299-FB20-4464-A150-624B40191BE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24709299-FB20-4464-A150-624B40191BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24709299-FB20-4464-A150-624B40191BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24709299-FB20-4464-A150-624B40191BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24709299-FB20-4464-A150-624B40191BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06A67ECE-2E2A-41DC-B463-A8E8E6B1C8CF}
+	EndGlobalSection
+EndGlobal
